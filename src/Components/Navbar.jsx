@@ -134,7 +134,7 @@ const Navbar = () => {
         }}
       >
         <div style={{ fontSize: "1.25rem", fontWeight: "bold" }}>
-          <h1 style={{fontWeight: 'bold', fontStyle: 'initial', fontSize:"40px"}}><span style={{color:"#ecca00"}}>Auto</span><span style={{color:"#ec2400"}}>Vibe</span></h1>
+          <h1 style={{fontWeight: 'bold', fontStyle: 'initial', fontSize:"40px"}}><span style={{color:"White"}}>Auto</span><span style={{color:"#ec2400"}}>Vibe</span></h1>
         </div>
 
         <div

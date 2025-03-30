@@ -21,6 +21,35 @@ const AI = () => {
           WebkitOverflowScrolling: "touch", // Smooth scrolling on iOS
         }}
       >
+        <br />
+        <br />
+        <div
+          style={{
+            width: "100%",
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+          }}
+        >
+          <h2
+            style={{
+              fontSize: "60px",
+            }}
+          >
+            AutoVibe
+            <span
+              style={{
+                background: "linear-gradient(90deg, #00C6FF, #0072FF)",
+                WebkitBackgroundClip: "text",
+                WebkitTextFillColor: "transparent",
+              }}
+            >
+              AI
+            </span>
+          </h2>
+        </div>
+        <br />
+        <br />
         <div
           style={{
             padding: "20px 20px",
