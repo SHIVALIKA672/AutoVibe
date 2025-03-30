@@ -64,7 +64,7 @@ const News = () => {
   <br/>
       {loading && <LoadingSpinner darkMode={darkMode} />}
       <style>{globalStyles}</style>
-<div style={{padding:"40px"}}>
+<div style={{padding:"15px"}}>
       {renderNewsSection("Top Car News", newsData["car-news"])}
       <br/>
       <br/>
