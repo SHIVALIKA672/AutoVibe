@@ -11,7 +11,10 @@
   },
   "dependencies": {
     "@iconscout/react-unicons": "^2.2.4",
+    "deps": "^1.0.0",
+    "legacy": "^0.0.3",
     "lucide-react": "^0.475.0",
+    "peer": "^1.0.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.2.0",
